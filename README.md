@@ -1,4 +1,4 @@
-# Hasan Management System
+# Gubug Alit System
 
 Sistem manajemen keuangan UMKM berbasis web yang membantu pelaku usaha kecil mengelola keuangan bisnis dengan lebih terstruktur dan efisien.
 
@@ -11,7 +11,7 @@ Sistem manajemen keuangan UMKM berbasis web yang membantu pelaku usaha kecil men
 
 ## Deskripsi
 
-**Hasan Management System** adalah aplikasi manajemen keuangan berbasis web yang dirancang khusus untuk pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Pengguna dapat mencatat transaksi pemasukan dan pengeluaran dengan upload bukti, menyusun anggaran bulanan per kategori, memantau realisasi anggaran dengan progress bar real-time, dan menghasilkan laporan keuangan komprehensif yang dapat diekspor ke format PDF dan Excel untuk analisis lebih lanjut.
+**Gubug Alit System** adalah aplikasi manajemen keuangan berbasis web yang dirancang khusus untuk pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Pengguna dapat mencatat transaksi pemasukan dan pengeluaran dengan upload bukti, menyusun anggaran bulanan per kategori, memantau realisasi anggaran dengan progress bar real-time, dan menghasilkan laporan keuangan komprehensif yang dapat diekspor ke format PDF dan Excel untuk analisis lebih lanjut.
 
 ---
 
@@ -416,7 +416,7 @@ php artisan test
 2. Export Excel tidak support custom styling
 3. Upload file > 2MB gagal (perlu compress)
 
-**Report bugs**: [GitHub Issues](https://github.com/hasanfadh/HasanManagement/issues)
+**Report bugs**: [GitHub Issues](https://github.com/nayrinn/gubugalit/issues)
 
 ---
 
@@ -461,10 +461,9 @@ Dikembangkan dengan ❤️ oleh **Hasan Fadhlurrahman**
 
 ## Kontak & Support
 
-- Email: hasan.fadlurrahman@gmail.com
-- Website: https://hasan-fadhlurrahman-portofolio.vercel.app/
-- LinkedIn: [LinkedIn](https://linkedin.com/in/hasan-fadhlurrahman)
-- GitHub: [@hasanfadh](https://github.com/hasanfadh)
+- Email: nashrulhusaini86@gmail.com
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nashrulhusaini)
+- GitHub: [@hasanfadh](https://github.com/nayrinn)
 
 **Need Help?** Open an issue atau kirim email!
 
@@ -547,4 +546,4 @@ Jika project ini membantu Anda, berikan ⭐ di GitHub!
 
 ---
 
-*Last Updated: December 2025*
+*Last Updated: July 2026*
