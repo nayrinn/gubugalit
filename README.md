@@ -1,4 +1,4 @@
-# Hasan Management System
+# Gubug Alit System
 
 Sistem manajemen keuangan UMKM berbasis web yang membantu pelaku usaha kecil mengelola keuangan bisnis dengan lebih terstruktur dan efisien.
 
@@ -11,7 +11,7 @@ Sistem manajemen keuangan UMKM berbasis web yang membantu pelaku usaha kecil men
 
 ## Deskripsi
 
-**Hasan Management System** adalah aplikasi manajemen keuangan berbasis web yang dirancang khusus untuk pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Pengguna dapat mencatat transaksi pemasukan dan pengeluaran dengan upload bukti, menyusun anggaran bulanan per kategori, memantau realisasi anggaran dengan progress bar real-time, dan menghasilkan laporan keuangan komprehensif yang dapat diekspor ke format PDF dan Excel untuk analisis lebih lanjut.
+**Gubug Alit System** adalah aplikasi manajemen keuangan berbasis web yang dirancang khusus untuk pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Pengguna dapat mencatat transaksi pemasukan dan pengeluaran dengan upload bukti, menyusun anggaran bulanan per kategori, memantau realisasi anggaran dengan progress bar real-time, dan menghasilkan laporan keuangan komprehensif yang dapat diekspor ke format PDF dan Excel untuk analisis lebih lanjut.
 
 ---
 
